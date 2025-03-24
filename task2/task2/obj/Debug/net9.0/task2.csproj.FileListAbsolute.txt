@@ -1,0 +1,15 @@
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\bin\Debug\net9.0\task2.exe
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\bin\Debug\net9.0\task2.deps.json
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\bin\Debug\net9.0\task2.runtimeconfig.json
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\bin\Debug\net9.0\task2.dll
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\bin\Debug\net9.0\task2.pdb
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\obj\Debug\net9.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\obj\Debug\net9.0\task2.AssemblyInfoInputs.cache
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\obj\Debug\net9.0\task2.AssemblyInfo.cs
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\obj\Debug\net9.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\obj\Debug\net9.0\task2.sourcelink.json
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\obj\Debug\net9.0\task2.dll
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\obj\Debug\net9.0\refint\task2.dll
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\obj\Debug\net9.0\task2.pdb
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\obj\Debug\net9.0\task2.genruntimeconfig.cache
+C:\Users\3bdelrhm3n\Desktop\.vs\task2\task2\obj\Debug\net9.0\ref\task2.dll
